@@ -1,0 +1,17 @@
+
+
+Module 3: Text Preparation for Summarization
+
+Prepare and tokenize the text data.
+Remove stopwords.
+Perform necessary data cleaning and formatting.
+
+Module 4: Text Summarization
+
+Compile the cleaned data using RNN/transformer layers.
+Test and validate the summarization results.
+
+
+Module 5: Hardware Implementation
+A device consisting of microphone and memory card for recording.
+
